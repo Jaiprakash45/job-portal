@@ -1,0 +1,26 @@
+node_modules/
+.env
+.env.*
+public/
+cloudFiles/
+
+# Images
+*.jpeg
+*.jpg
+*.png
+
+# Logs
+logs
+*.log
+
+# Build / cache
+dist
+coverage
+.cache
+.parcel-cache
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
